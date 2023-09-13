@@ -1,0 +1,6 @@
+{
+  "server": "parens.social",
+  "home-timeline-length": 1000,
+  "max-followings": 80,
+  "from-notifications": 1
+}
